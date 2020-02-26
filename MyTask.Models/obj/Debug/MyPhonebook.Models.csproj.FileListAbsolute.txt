@@ -1,0 +1,8 @@
+C:\Users\Administrator\Downloads\MyMVCAngularTask-master\MyTask.Models\bin\Debug\MyTask.Models.dll
+C:\Users\Administrator\Downloads\MyMVCAngularTask-master\MyTask.Models\bin\Debug\MyTask.Models.pdb
+C:\Users\Administrator\Downloads\MyMVCAngularTask-master\MyTask.Models\obj\Debug\MyTask.Models.dll
+C:\Users\Administrator\Downloads\MyMVCAngularTask-master\MyTask.Models\obj\Debug\MyTask.Models.pdb
+C:\Users\Administrator\Downloads\My Phonebook\MyTask.Models\bin\Debug\MyPhonebook.Models.dll
+C:\Users\Administrator\Downloads\My Phonebook\MyTask.Models\bin\Debug\MyPhonebook.Models.pdb
+C:\Users\Administrator\Downloads\My Phonebook\MyTask.Models\obj\Debug\MyPhonebook.Models.dll
+C:\Users\Administrator\Downloads\My Phonebook\MyTask.Models\obj\Debug\MyPhonebook.Models.pdb
